@@ -1,0 +1,13 @@
+#Database
+
+host: "penis"
+database: "penis"
+username: "penis"
+password: "penis"
+#Standart Port nicht ändern
+port: "3306"
+
+prefix: "§eBTE-PS-Token:§r"
+
+#Wieviele tokens sollen für eine 1€ Spende gegeben werden?
+multiplicator: "2"
